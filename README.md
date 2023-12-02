@@ -1,10 +1,9 @@
 				# CHESS GAME IN C++ 
+## INSTRUCTIONS:
 
-# INSTRUCTIONS:
+##### This is a two player chess game which is made in c++ using sfml. 
 
---> This is a two player chess game which is made in c++ using sfml. 
-
-==> Following are the steps to compile and run CHESS game on your terminal:
+##### Following are the steps to compile and run CHESS game on your terminal:
 
 	1. First you need to install SFML in linux. Open the terminal and write 		this command:
 	"sudo apt-get install libsfml-dev"
