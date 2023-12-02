@@ -1,14 +1,5 @@
 				# CHESS GAME IN C++ 
 
-# SUBMITTED BY:
-	SHIVAM ( 19/11/EC/057 )
-	SAGAR ARYA ( 19/11/EC/061 )
-	
-# SUBMITTED TO:
-	PROF. DR. MUKESH GILUKA, SCHOOL OF ENGINEERING, JNU
-	
-
-
 # INSTRUCTIONS:
 
 --> This is a two player chess game which is made in c++ using sfml. 
