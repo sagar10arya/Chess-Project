@@ -9,7 +9,7 @@
 	"sudo apt-get install libsfml-dev"
 
 	2. Then for compiling main.cpp, run this command:
-   "g++ -std=c++14 main.cpp -o chess -lsfml-graphics -lsfml-window -lsfml-system"
+  	 "g++ -std=c++14 main.cpp -o chess -lsfml-graphics -lsfml-window -lsfml-system"
 
 	3. Now finally we will write "./chess" in the terminal and the game will  		run.
 
